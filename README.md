@@ -1,134 +1,180 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:8A2BE2,100:00C2FF&height=250&section=header&text=Priyam%20Singh&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12002E,50:7F00FF,100:00C2FF&height=230&section=header&text=Priyam%20Singh&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20in%20Progress%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18"/>
 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=700&color=A855F7&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Generative+AI+Explorer;Python+Developer;Building+AI+Powered+Solutions;Learning+Everyday+%F0%9F%9A%80"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Generative+AI+Learner;Building+Practical+AI+Solutions"/>
+
 
 <br>
 
-<img src="https://img.shields.io/badge/Computer%20Science-Engineering-7F00FF?style=for-the-badge&logo=codecademy"/>
-<img src="https://img.shields.io/badge/Bhopal-India-8A2BE2?style=for-the-badge&logo=googlemaps"/>
+
+<img src="https://img.shields.io/badge/Computer%20Science-Engineering-7F00FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Location-Bhopal,%20India-8A2BE2?style=flat-square"/>
+
 
 <br><br>
 
+
 <a href="mailto:priyamsingh0017@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 
 <a href="https://www.linkedin.com/in/priyamsingh10/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
+
 <a href="https://github.com/priyam-10">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
 </a>
 
 
 </div>
 
 
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+
+# About Me
 
 
-I am **Priyam Singh**, a Computer Science Engineering student passionate about creating intelligent solutions using Artificial Intelligence and Data Science.
+Hi, I'm **Priyam Singh**, a Computer Science Engineering undergraduate focused on Artificial Intelligence, Machine Learning, and Data Science.
 
-My focus is on understanding AI systems from fundamentals and applying concepts by developing practical real-world projects.
+I enjoy understanding how intelligent systems work and converting ideas into practical AI-based applications.
 
-Currently exploring:
+My learning and development journey focuses on:
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
+- Artificial Intelligence fundamentals
+- Machine Learning implementation
+- Generative AI applications
 - Large Language Models
-- Data Science
-- AI Automation
-- Python Development
+- Data analysis and visualization
+- AI-powered automation
 
 
-I believe the best way to master technology is by continuously **learning, building, and improving**.
+Currently improving my knowledge through hands-on projects using Python, Data Science libraries, and modern AI development tools.
 
 
 ```yaml
-Current Status:
+Currently:
 
 Learning:
-  Machine Learning
-  Deep Learning Basics
-  Generative AI
+  - Machine Learning
+  - Deep Learning Fundamentals
+  - Generative AI
 
 Building:
-  AI Applications
-  LLM Projects
-  Data Science Projects
+  - AI Applications
+  - LangChain Projects
+  - Data Science Solutions
 
 Goal:
-  Become an AI Engineer
+  - AI Engineer
+  - Machine Learning Engineer
 ```
-
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 
-# ⚡ Tech Stack
+# Tech Stack
 
 
 ## Programming Languages
+
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 
+<br>
+
+<img src="https://img.shields.io/badge/Python-Programming-7F00FF?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/SQL-Database-8A2BE2?style=for-the-badge&logo=mysql"/>
+
 </p>
 
 
-## Data Science
+
+## Data Science & Analytics
+
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
 
-<br>
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-7F00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy"/>
+
+
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-7F00FF?style=for-the-badge"/>
+
+
+<img src="https://img.shields.io/badge/Seaborn-Visualization-8A2BE2?style=for-the-badge"/>
+
+
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter"/>
+
 
 </p>
+
 
 
 
 ## Artificial Intelligence
 
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-7F00FF?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-6A00FF?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-7F00FF?style=for-the-badge"/>
+
+
+<img src="https://img.shields.io/badge/Deep%20Learning-Exploring-8A2BE2?style=for-the-badge"/>
+
+
+<img src="https://img.shields.io/badge/Generative%20AI-Beginner-6A00FF?style=for-the-badge"/>
+
+
+<img src="https://img.shields.io/badge/LangChain-Practical%20Learning-black?style=for-the-badge"/>
+
+
+<img src="https://img.shields.io/badge/LLMs-Learning-blueviolet?style=for-the-badge"/>
+
 
 </p>
 
 
-## Tools
+
+## Developer Tools
+
 
 <p align="center">
+
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
+<br>
+
+
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git"/>
+
+
+<img src="https://img.shields.io/badge/GitHub-Code%20Hosting-111111?style=for-the-badge&logo=github"/>
+
+
+<img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+
+
 </p>
+
 
 
 
@@ -136,93 +182,18 @@ Goal:
 
 
 
-# 🧠 AI / ML Journey
+
+# AI / ML Learning Journey
 
 
 | Technology | Level | Focus |
 |-|-|-|
-| Python | Intermediate | AI Programming |
-| Data Science | Beginner → Intermediate | Analytics |
-| Machine Learning | Learning | Algorithms |
+| Python | Intermediate | AI Development |
+| Data Science | Beginner - Intermediate | Analysis |
+| Machine Learning | Learning | Models & Algorithms |
 | Deep Learning | Exploring | Neural Networks |
-| Generative AI | Beginner | LLM Apps |
-| LangChain | Beginner Practical | AI Workflows |
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-
-
-# 🚀 Featured Projects
-
-
-
-<details>
-
-<summary><b>🤖 AI Reel Generator</b></summary>
-
-<br>
-
-AI based content generation automation project.
-
-| Tech | Python + Generative AI |
-|-|-|
-| Focus | AI Automation |
-| Repo | https://github.com/priyam-10/ai-reel-generator |
-
-</details>
-
-
-
-<details>
-
-<summary><b>✨ PostCraft AI</b></summary>
-
-<br>
-
-AI powered content creation application.
-
-| Tech | Python + AI Models |
-|-|-|
-| Focus | Generative AI |
-| Repo | https://github.com/priyam-10/PostCraft-AI |
-
-</details>
-
-
-
-<details>
-
-<summary><b>💬 LangChain Groq Chatbot</b></summary>
-
-<br>
-
-LLM chatbot using LangChain ecosystem.
-
-| Tech | LangChain + Groq |
-|-|-|
-| Focus | Conversational AI |
-| Repo | https://github.com/priyam-10/langchain-groq-chatbot |
-
-</details>
-
-
-
-<details>
-
-<summary><b>📊 Customer Churn Dashboard</b></summary>
-
-<br>
-
-Customer behavior analysis dashboard.
-
-| Tech | Python Data Libraries |
-|-|-|
-| Focus | Data Analysis |
-| Repo | https://github.com/priyam-10/Customer-Churn-Analysis-Dashboard |
-
-</details>
+| Generative AI | Beginner | AI Applications |
+| LangChain | Beginner Practical | LLM Workflows |
 
 
 
@@ -231,33 +202,68 @@ Customer behavior analysis dashboard.
 
 
 
-# 💻 Experience
+
+# Featured Projects
 
 
-## AI & Data Science Project Development
 
-**2024 - Present**
+<details>
 
-Hands-on development experience through AI and Data Science projects.
+<summary><b>AI Reel Generator</b></summary>
 
-Working with:
+AI powered content automation project.
 
-- Generative AI applications
-- LangChain experiments
-- Data analysis workflows
-- Python based AI solutions
+| Category | Details |
+|-|-|
+| Tech | Python, Generative AI |
+| Repository | https://github.com/priyam-10/ai-reel-generator |
+
+</details>
 
 
-Skills:
 
-`Python`
-`SQL`
-`Pandas`
-`NumPy`
-`AI`
-`Generative AI`
-`LangChain`
-`GitHub`
+<details>
+
+<summary><b>PostCraft AI</b></summary>
+
+Generative AI content creation project.
+
+| Category | Details |
+|-|-|
+| Tech | Python, AI Models |
+| Repository | https://github.com/priyam-10/PostCraft-AI |
+
+</details>
+
+
+
+<details>
+
+<summary><b>LangChain Groq Chatbot</b></summary>
+
+LLM based chatbot implementation.
+
+| Category | Details |
+|-|-|
+| Tech | Python, LangChain, Groq |
+| Repository | https://github.com/priyam-10/langchain-groq-chatbot |
+
+</details>
+
+
+
+<details>
+
+<summary><b>Customer Churn Analysis Dashboard</b></summary>
+
+Customer data analysis dashboard.
+
+| Category | Details |
+|-|-|
+| Tech | Python, Data Analytics |
+| Repository | https://github.com/priyam-10/Customer-Churn-Analysis-Dashboard |
+
+</details>
 
 
 
@@ -265,24 +271,24 @@ Skills:
 
 
 
-# 🌐 Connect
+# Connect
 
 
 <div align="center">
 
 
 <a href="mailto:priyamsingh0017@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-8A2BE2?style=for-the-badge&logo=gmail"/>
 </a>
 
 
 <a href="https://www.linkedin.com/in/priyamsingh10/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 
 <a href="https://github.com/priyam-10">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
 
@@ -290,14 +296,12 @@ Skills:
 
 
 
-<br>
-
-
 <div align="center">
 
-### "Learning today. Building tomorrow's intelligent systems."
+### "Learning AI by building intelligent solutions."
 
 </div>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:8A2BE2,100:6A00FF&height=130&section=footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:7F00FF,100:12002E&height=130&section=footer"/>
