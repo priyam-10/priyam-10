@@ -465,17 +465,21 @@ AI-powered content automation project exploring generative AI workflows.
 
 <br>
 
-<a href="mailto:[priyamsingh0017@gmail.com](mailto:priyamsingh0017@gmail.com)">
-<img src="https://img.shields.io/badge/Gmail-priyamsingh0017%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
 
-<a href="https://www.linkedin.com/in/priyamsingh10/">
-<img src="https://img.shields.io/badge/LinkedIn-Priyam_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="mailto:priyamsingh0017@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" title="Email: priyamsingh0017@gmail.com" alt="Email" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/priyam-10">
-<img src="https://img.shields.io/badge/GitHub-priyam--10-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/priyamsingh10/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" title="LinkedIn: Priyam Singh" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/priyam-10">
+    <img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub: priyam-10" alt="GitHub" />
+  </a>
+
+</p>
 
 <br><br>
 
