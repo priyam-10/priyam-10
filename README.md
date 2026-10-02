@@ -283,16 +283,13 @@ AWS
 <br>
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>📊 Marketing Funnel & Lead Conversion Analysis</h3>
+### 📊 Marketing Funnel & Lead Conversion Analysis
 
 Analyzing marketing funnel performance and lead conversion patterns to understand how users move through different stages.
-
-<br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-7F00FF?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -308,11 +305,9 @@ Analyzing marketing funnel performance and lead conversion patterns to understan
 
 <td width="50%" valign="top">
 
-<h3>📈 Business Sales Performance Analytics</h3>
+### 📈 Business Sales Performance Analytics
 
 Business-focused analysis exploring sales performance, trends and data-driven insights.
-
-<br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Analytics-00A8CC?style=for-the-badge"/>
@@ -332,11 +327,9 @@ Business-focused analysis exploring sales performance, trends and data-driven in
 
 <td width="50%" valign="top">
 
-<h3>👥 Customer Retention & Churn Analysis</h3>
+### 👥 Customer Retention & Churn Analysis
 
 Dashboard-oriented analysis exploring customer retention, churn behavior and business insights.
-
-<br>
 
 <img src="https://img.shields.io/badge/Analytics-7F00FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Dashboard-00A8CC?style=for-the-badge"/>
@@ -352,11 +345,9 @@ Dashboard-oriented analysis exploring customer retention, churn behavior and bus
 
 <td width="50%" valign="top">
 
-<h3>🌍 GeoStats Analyzer</h3>
+### 🌍 GeoStats Analyzer
 
 Data analysis project focused on geographical statistics and location-based data exploration.
-
-<br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data_Science-00A8CC?style=for-the-badge"/>
@@ -376,11 +367,9 @@ Data analysis project focused on geographical statistics and location-based data
 
 <td width="50%" valign="top">
 
-<h3>🎨 PostCraft AI</h3>
+### 🎨 PostCraft AI
 
 Generative AI project focused on AI-powered content creation.
-
-<br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Generative_AI-7F00FF?style=for-the-badge"/>
@@ -395,11 +384,9 @@ Generative AI project focused on AI-powered content creation.
 
 <td width="50%" valign="top">
 
-<h3>🎬 AI Reel Generator</h3>
+### 🎬 AI Reel Generator
 
 AI-powered content automation project exploring generative AI workflows.
-
-<br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Generative_AI-00A8CC?style=for-the-badge"/>
@@ -413,7 +400,6 @@ AI-powered content automation project exploring generative AI workflows.
 </td>
 
 </tr>
-
 </table>
 
 <br>
