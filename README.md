@@ -89,59 +89,129 @@ goal:
 
 
 
-
-## 🧰 My Data Toolkit
+<h2 align="center"> 🧰 My Data Toolkit</h2>
 
 <div align="left">
 
 ### 📊 Data & Analytics
 
-<img src="https://img.shields.io/badge/Python-ECFDF5?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Jupyter-ECFDF5?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
-<img src="https://img.shields.io/badge/JupyterLab-ECFDF5?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
-<img src="https://img.shields.io/badge/Pandas-ECFDF5?style=for-the-badge&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/NumPy-ECFDF5?style=for-the-badge&logo=numpy&logoColor=013243"/>
-<img src="https://img.shields.io/badge/Matplotlib-ECFDF5?style=for-the-badge&logo=matplotlib&logoColor=11557C"/>
-<img src="https://img.shields.io/badge/Seaborn-ECFDF5?style=for-the-badge&logo=seaborn&logoColor=4C72B0"/>
-<img src="https://img.shields.io/badge/SQL-ECFDF5?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-<img src="https://img.shields.io/badge/Excel-ECFDF5?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
-<img src="https://img.shields.io/badge/Power%20BI-ECFDF5?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpython%2Fpython-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpython%2Fpython-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Python" title="Python"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fjupyter%2Fjupyter-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fjupyter%2Fjupyter-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Jupyter / JupyterLab" title="Jupyter / JupyterLab"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpandas%2Fpandas-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpandas%2Fpandas-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Pandas" title="Pandas"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fnumpy%2Fnumpy-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fnumpy%2Fnumpy-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="NumPy" title="NumPy"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fmatplotlib%2Fmatplotlib-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fmatplotlib%2Fmatplotlib-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Matplotlib" title="Matplotlib"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmwaskom%2Fseaborn%2Fmaster%2Fdoc%2F_static%2Flogo-mark-darkbg.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fseaborn.pydata.org%2F_images%2Flogo-mark-lightbg.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Seaborn" title="Seaborn"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fazuresqldatabase%2Fazuresqldatabase-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fazuresqldatabase%2Fazuresqldatabase-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="SQL" title="SQL"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F96%2Fmicrosoft-excel-2019--v1.png&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F96%2Fmicrosoft-excel-2019--v1.png&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Excel" title="Excel"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F96%2Fpower-bi.png&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F96%2Fpower-bi.png&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Power BI" title="Power BI"/>
+</picture>
 
 <br>
 
 ### 🤖 Machine Learning & AI
 
-<img src="https://img.shields.io/badge/Scikit--learn-ECFDF5?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/PyTorch-ECFDF5?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/TensorFlow-ECFDF5?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-ECFDF5?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fscikitlearn%2Fscikitlearn-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fscikitlearn%2Fscikitlearn-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Scikit-learn" title="Scikit-learn"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpytorch%2Fpytorch-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpytorch%2Fpytorch-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="PyTorch" title="PyTorch"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Ftensorflow%2Ftensorflow-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Ftensorflow%2Ftensorflow-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="TensorFlow" title="TensorFlow"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fhuggingface.co%2Ffront%2Fassets%2Fhuggingface_logo-noborder.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fhuggingface.co%2Ffront%2Fassets%2Fhuggingface_logo-noborder.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Hugging Face" title="Hugging Face"/>
+</picture>
 
 <br>
 
 ### 🛠️ Development, Databases & Cloud
 
-<img src="https://img.shields.io/badge/VS%20Code-ECFDF5?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Git-ECFDF5?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-ECFDF5?style=for-the-badge&logo=github&logoColor=181717"/>
-<img src="https://img.shields.io/badge/PostgreSQL-ECFDF5?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-<img src="https://img.shields.io/badge/Docker-ECFDF5?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/AWS-ECFDF5?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Google%20Colab-ECFDF5?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
-<img src="https://img.shields.io/badge/Streamlit-ECFDF5?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
-<img src="https://img.shields.io/badge/FastAPI-ECFDF5?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fvscode%2Fvscode-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fvscode%2Fvscode-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="VS Code" title="VS Code"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fgit%2Fgit-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fgit%2Fgit-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Git" title="Git"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fgithub%2Fgithub-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fgithub%2Fgithub-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="GitHub" title="GitHub"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpostgresql%2Fpostgresql-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpostgresql%2Fpostgresql-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="PostgreSQL" title="PostgreSQL"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fdocker%2Fdocker-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fdocker%2Fdocker-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Docker" title="Docker"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Famazonwebservices%2Famazonwebservices-original-wordmark.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Famazonwebservices%2Famazonwebservices-original-wordmark.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="AWS" title="AWS"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Fgooglecolab%2FF9AB00&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Fgooglecolab%2FF9AB00&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Google Colab" title="Google Colab"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fstreamlit%2Fstreamlit-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fstreamlit%2Fstreamlit-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Streamlit" title="Streamlit"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Ffastapi%2Ffastapi-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Ffastapi%2Ffastapi-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="FastAPI" title="FastAPI"/>
+</picture>
 
 <br>
 
 ### ✨ Generative AI
 
-<img src="https://img.shields.io/badge/OpenAI%20API-ECFDF5?style=for-the-badge&logo=openai&logoColor=412991"/>
-<img src="https://img.shields.io/badge/LangChain-ECFDF5?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
-<img src="https://img.shields.io/badge/Ollama-ECFDF5?style=for-the-badge&logo=ollama&logoColor=111111"/>
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fios-filled%2F100%2FFFFFFF%2Fchatgpt.png&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fios-filled%2F100%2Fchatgpt.png&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="OpenAI API" title="OpenAI API"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Flangchain%2FFFFFFF&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Flangchain%2F1C3C3C&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="LangChain" title="LangChain"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Follama%2FFFFFFF&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Follama%2F111111&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Ollama" title="Ollama"/>
+</picture>
 
 </div>
-
 
 
 
