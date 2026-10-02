@@ -458,20 +458,6 @@ AI-powered content automation project exploring generative AI workflows.
 
 ---
 
-<h2 align="center">⚡ GitHub Activity</h2>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=priyam-10&show_icons=true&hide_border=true&theme=default&bg_color=ffffff&title_color=7F00FF&icon_color=7F00FF&text_color=333333&rank_icon=github"/>
-
-
-</div>
-
-<br>
-
----
 
 <h2 align="center">🌐 Let's Connect</h2>
 
