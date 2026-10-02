@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://github.com/priyam-10">
-<img src="https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Follow-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
 
 </div>
