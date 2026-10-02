@@ -1,4 +1,6 @@
 <div align="center">
+  
+
 
 # Hey, I'm Priyam 👋
 
@@ -157,44 +159,33 @@ goal:
 
 ### 🛠️ Development, Databases & Cloud
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fvscode%2Fvscode-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fvscode%2Fvscode-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="VS Code" title="VS Code"/>
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fgit%2Fgit-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fgit%2Fgit-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Git" title="Git"/>
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fgithub%2Fgithub-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fgithub%2Fgithub-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="GitHub" title="GitHub"/>
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpostgresql%2Fpostgresql-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpostgresql%2Fpostgresql-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="PostgreSQL" title="PostgreSQL"/>
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fdocker%2Fdocker-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fdocker%2Fdocker-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Docker" title="Docker"/>
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Famazonwebservices%2Famazonwebservices-original-wordmark.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Famazonwebservices%2Famazonwebservices-original-wordmark.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="AWS" title="AWS"/>
-</picture>&nbsp;
+
+<p>
+
+ <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" />
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Fgooglecolab%2FF9AB00&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
   <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Fgooglecolab%2FF9AB00&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Google Colab" title="Google Colab"/>
 </picture>&nbsp;
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fstreamlit%2Fstreamlit-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
   <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fstreamlit%2Fstreamlit-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Streamlit" title="Streamlit"/>
 </picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Ffastapi%2Ffastapi-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Ffastapi%2Ffastapi-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="FastAPI" title="FastAPI"/>
-</picture>
 
-<br>
+
+
+</p>
+
+
 
 ### ✨ Generative AI
 
