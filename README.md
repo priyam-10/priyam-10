@@ -95,50 +95,61 @@ goal:
 
 <div align="left">
 
-### 📊 Data & Analytics
+## 🧑‍💻 Programming Languages
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpython%2Fpython-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpython%2Fpython-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Python" title="Python"/>
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fjupyter%2Fjupyter-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fjupyter%2Fjupyter-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Jupyter / JupyterLab" title="Jupyter / JupyterLab"/>
-</picture>&nbsp;
-<picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++" title="C++"/>
+</p>
+
+<br>
+
+## 📊 Data & Analytics
+
+<p>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpandas%2Fpandas-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
   <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fpandas%2Fpandas-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Pandas" title="Pandas"/>
 </picture>&nbsp;
-<picture>
+
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fnumpy%2Fnumpy-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
   <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fnumpy%2Fnumpy-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="NumPy" title="NumPy"/>
 </picture>&nbsp;
-<picture>
+
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fmatplotlib%2Fmatplotlib-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
   <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fmatplotlib%2Fmatplotlib-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Matplotlib" title="Matplotlib"/>
 </picture>&nbsp;
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmwaskom%2Fseaborn%2Fmaster%2Fdoc%2F_static%2Flogo-mark-darkbg.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
   <img src="https://wsrv.nl/?url=https%3A%2F%2Fseaborn.pydata.org%2F_images%2Flogo-mark-lightbg.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Seaborn" title="Seaborn"/>
 </picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fazuresqldatabase%2Fazuresqldatabase-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fazuresqldatabase%2Fazuresqldatabase-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="SQL" title="SQL"/>
-</picture>&nbsp;
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F96%2Fmicrosoft-excel-2019--v1.png&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
   <img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F96%2Fmicrosoft-excel-2019--v1.png&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Excel" title="Excel"/>
 </picture>&nbsp;
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F96%2Fpower-bi.png&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
   <img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F96%2Fpower-bi.png&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Power BI" title="Power BI"/>
 </picture>
 
+
+</p>
+
 <br>
 
-### 🤖 Machine Learning & AI
 
-<picture>
+
+
+## 🤖 Machine Learning & Deep Learning
+
+<p>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fscikitlearn%2Fscikitlearn-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
   <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fscikitlearn%2Fscikitlearn-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Scikit-learn" title="Scikit-learn"/>
 </picture>&nbsp;
@@ -150,57 +161,83 @@ goal:
   <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Ftensorflow%2Ftensorflow-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
   <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Ftensorflow%2Ftensorflow-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="TensorFlow" title="TensorFlow"/>
 </picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fhuggingface.co%2Ffront%2Fassets%2Fhuggingface_logo-noborder.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fhuggingface.co%2Ffront%2Fassets%2Fhuggingface_logo-noborder.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Hugging Face" title="Hugging Face"/>
-</picture>
+</p>
 
 <br>
 
-### 🛠️ Development, Databases & Cloud
-
+## ✨ Generative AI & LLMs
 
 <p>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fios-filled%2F100%2FFFFFFF%2Fchatgpt.png&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fios-filled%2F100%2Fchatgpt.png&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="OpenAI API" title="OpenAI API"/>
+</picture>&nbsp;
 
- <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fhuggingface.co%2Ffront%2Fassets%2Fhuggingface_logo-noborder.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fhuggingface.co%2Ffront%2Fassets%2Fhuggingface_logo-noborder.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Hugging Face" title="Hugging Face"/>
+</picture>&nbsp;
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Fgooglecolab%2FF9AB00&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Fgooglecolab%2FF9AB00&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Google Colab" title="Google Colab"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Flangchain%2FFFFFFF&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Flangchain%2F1C3C3C&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="LangChain" title="LangChain"/>
 </picture>&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Follama%2FFFFFFF&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Follama%2F111111&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Ollama" title="Ollama"/>
+</picture>
+
+
+</p>
+
+<br>
+
+## 🛠️ Development & Engineering Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" title="VS Code"/>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fjupyter%2Fjupyter-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fjupyter%2Fjupyter-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Jupyter / JupyterLab" title="Jupyter / JupyterLab"/>
+</picture>&nbsp;
+
+</p>
+
+<br>
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" title="PostgreSQL"/>
+</p>
+
+<br>
+
+## 🌐 APIs & Application Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI" title="FastAPI"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fstreamlit%2Fstreamlit-original.svg&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
   <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fstreamlit%2Fstreamlit-original.svg&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Streamlit" title="Streamlit"/>
 </picture>&nbsp;
 
-
-
 </p>
 
+<br>
 
+## ☁️ Deployment, Cloud & Infrastructure
 
-### ✨ Generative AI
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fios-filled%2F100%2FFFFFFF%2Fchatgpt.png&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.icons8.com%2Fios-filled%2F100%2Fchatgpt.png&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="OpenAI API" title="OpenAI API"/>
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Flangchain%2FFFFFFF&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Flangchain%2F1C3C3C&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="LangChain" title="LangChain"/>
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Follama%2FFFFFFF&h=96&w=96&fit=contain&bg=0d1117&pad=8&output=png" height="50">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.simpleicons.org%2Follama%2F111111&h=96&w=96&fit=contain&bg=white&pad=8&output=png" height="50" alt="Ollama" title="Ollama"/>
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS" title="AWS"/>
+</p>
 
 </div>
 
