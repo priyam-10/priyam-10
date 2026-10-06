@@ -297,5 +297,14 @@
     DATA → INSIGHTS → APPLICATIONS
   </text>
 
-
+<image
+    href="priyam.png"
+    x="825"
+    y="130"
+    width="210"
+    height="210"
+    preserveAspectRatio="xMidYMid slice"
+    clip-path="url(#photoClip)"
+/>
+     
 </svg>
