@@ -1,6 +1,6 @@
 <!--
   PALETTE  ·  Violet #7C5CFF  ·  Cyan #00E5FF  ·  Indigo #3B2A8F  ·  Navy #0D1117
-  Needs the /assets folder (header.svg, kpi.svg, pipeline.svg, divider.svg, project-*.svg) in this repo.
+  Needs the /assets folder (header.svg, kpi.svg, pipeline.svg, stack.svg, divider.svg, project-*.svg) in this repo.
 -->
 
 <div align="center">
@@ -116,60 +116,9 @@ dtype: object
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C5CFF,100:00E5FF&height=1" width="140"/>
 </div>
-
 <div align="center">
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00E5FF"/>
-<br/>
-<img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00E5FF"/>
-<br/>
-<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF"/>
-
+<img src="assets/stack.svg" width="100%" alt="Tech stack: languages, data analysis, visualization and BI, machine learning, statistics, workflow"/>
 </div>
-
-<br/>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'cScale0':'#7C5CFF','cScale1':'#0891B2','cScale2':'#3B2A8F','cScale3':'#6D28D9','cScaleLabel0':'#FFFFFF','cScaleLabel1':'#FFFFFF','cScaleLabel2':'#FFFFFF','cScaleLabel3':'#FFFFFF','lineColor':'#00E5FF'}}}%%
-mindmap
-  root((Priyam<br/>Singh))
-    Data Analysis
-      Python
-      SQL
-      Pandas
-      NumPy
-      EDA
-      Data Cleaning
-    BI and Visualization
-      Power BI
-      Power Query
-      DAX
-      Excel
-      Matplotlib
-      Seaborn
-    Statistics
-      Descriptive Stats
-      Probability
-      Hypothesis Testing
-      Correlation
-    Machine Learning
-      Regression
-      Classification
-      Clustering
-      Model Evaluation
-      Feature Scaling
-```
 
 <br/>
 
